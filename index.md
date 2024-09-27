@@ -8,14 +8,13 @@ Currently, the work has been handed over to the RDA WG on [Scientific Knowledge 
 which has been endorsed in June 2023.
  
 ## Contents
-- [Data model diagrams]()
-- [Interoperability Framework]()
-- [JSON-LD context]()
-- [Examples]()
-- [Extensions]()
+- [Data model diagrams](https://skg-if.github.io/data-model/)
+- [Interoperability Framework](https://skg-if.github.io/interoperability-framework/)
+- [JSON-LD context](https://skg-if.github.io/context/)
+- [Examples](https://skg-if.github.io/examples/)
+- [Extensions](https://skg-if.github.io/extensions/)
 - Exchange protocols
     - [Snapshot](https://skg-if.github.io/snapshot/)
-    - [API]()
+    - [API](https://skg-if.github.io/api/)
 
-
-
+<span style="color:blue">some *blue* text</span>.
