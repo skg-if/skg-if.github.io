@@ -17,5 +17,5 @@ which has been endorsed in June 2023.
     - [Snapshot](https://skg-if.github.io/snapshot/)
     - [API](https://skg-if.github.io/api/)
 
-## Cotnributors
+## Contributors
 TODO
