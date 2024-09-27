@@ -19,3 +19,7 @@ which has been endorsed in June 2023.
 
 ## Contributors
 TODO
+
+If you wish to participate to the discussion around the SKG-IF, please subscribe to the RDA WG Scientific Knowledge Graphs - Interoperability Framework.
+
+
