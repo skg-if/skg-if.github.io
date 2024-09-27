@@ -7,7 +7,15 @@ towards the definition of the **Scientific Knowledge Graphs Interoperability Fra
 Currently, the work has been handed over to the RDA WG on [Scientific Knowledge Graphs - Interoperability Framework](https://www.rd-alliance.org/groups/scientific-knowledge-graphs-interoperability-framework-skg-if-wg)
 which has been endorsed in June 2023.
  
-> [!NOTE]
-> I want the readers to read it carefully as it contains many important docs.
+## Contents
+- [Data model diagrams]()
+- [Interoperability Framework]()
+- [JSON-LD context]()
+- [Examples]()
+- [Extensions]()
+- Exchange protocols
+    - [Snapshot](https://skg-if.github.io/snapshot/)
+    - [API]()
+
 
 
