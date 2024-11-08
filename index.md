@@ -10,7 +10,6 @@ Currently, the work has been handed over to the RDA Working Group on [Scientific
 - [Interoperability Framework](https://skg-if.github.io/interoperability-framework/)
 - [JSON-LD context](https://skg-if.github.io/context/)
 - [Examples](https://skg-if.github.io/examples/)
-- [Core model diagrams](https://skg-if.github.io/data-model/)
 - [Extensions](https://skg-if.github.io/extensions/)
 - Exchange protocols
     - [Snapshot](https://skg-if.github.io/snapshot/)
