@@ -1,3 +1,8 @@
+---
+id: home
+title: Home
+---
+
 # Welcome to SKG-IF documentation!
 
 This documentation provides an overview of the work started by the RDA Interest Group on

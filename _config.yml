@@ -1,0 +1,7 @@
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+
+search_enabled: true
+
+sidebar:
+  - home
+  - https://google.com
