@@ -7,16 +7,15 @@ url: https://just-the-docs.github.io
 nav_external_links:
   - title: Just the Docs on GitHub
     url: https://github.com/just-the-docs/just-the-docs
-
   - title: Interoperability Framework 
-    url:https://skg-if.github.io/interoperability-framework/
+    url: https://skg-if.github.io/interoperability-framework/
   - title: JSON-LD context
-    url:https://skg-if.github.io/context/
+    url: https://skg-if.github.io/context/
   - title: Examples 
-    url:https://skg-if.github.io/examples/
+    url: https://skg-if.github.io/examples/
   - title: Extensions
-    url:https://skg-if.github.io/extensions/
+    url: https://skg-if.github.io/extensions/
   - title: Snapshot
-    url:https://skg-if.github.io/snapshot/
+    url: https://skg-if.github.io/snapshot/
   - title: API
-    url:https://skg-if.github.io/api/
+    url: https://skg-if.github.io/api/
