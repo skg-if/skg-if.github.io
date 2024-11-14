@@ -1,2 +1,2 @@
 # skg-if.github.io
-Website of the SKG-IF material
+Main website for the SKG-IF documentation
