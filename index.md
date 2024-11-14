@@ -1,6 +1,6 @@
 ---
-id: home
 title: Home
+layout: home
 ---
 
 # Welcome to SKG-IF documentation!
