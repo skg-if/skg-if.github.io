@@ -5,9 +5,6 @@ theme: just-the-docs
 url: https://skg-if.github.io
 
 nav_external_links:
-  - title: Home
-    url: https://skg-if.github.io/
-    hide_icon: true
   - title: Interoperability Framework 
     url: https://skg-if.github.io/interoperability-framework/
     hide_icon: true
