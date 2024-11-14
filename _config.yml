@@ -4,7 +4,7 @@ theme: just-the-docs
 
 url: https://skg-if.github.io
 
-nav_enabled: true
+nav_enabled: false
 
 nav_external_links:
   - title: Interoperability Framework 
