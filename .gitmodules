@@ -13,3 +13,9 @@
 [submodule "context"]
 	path = context
 	url = https://github.com/skg-if/context.git
+[submodule "data-model"]
+	path = data-model
+	url = https://github.com/skg-if/data-model.git
+[submodule "interoperability-framework"]
+	path = interoperability-framework
+	url = https://github.com/skg-if/interoperability-framework.git
