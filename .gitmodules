@@ -10,3 +10,6 @@
 [submodule "examples"]
 	path = examples
 	url = https://github.com/skg-if/examples.git
+[submodule "context"]
+	path = context
+	url = https://github.com/skg-if/context.git
