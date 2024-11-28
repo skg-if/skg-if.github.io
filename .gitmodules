@@ -1,3 +1,6 @@
 [submodule "snapshot"]
 	path = snapshot
 	url = https://github.com/skg-if/snapshot.git
+[submodule "api"]
+	path = api
+	url = https://github.com/skg-if/api.git
