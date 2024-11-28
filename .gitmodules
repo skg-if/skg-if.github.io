@@ -4,3 +4,6 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/skg-if/api.git
+[submodule "extensions"]
+	path = extensions
+	url = https://github.com/skg-if/extensions.git
