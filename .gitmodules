@@ -1,0 +1,3 @@
+[submodule "snapshot"]
+	path = snapshot
+	url = https://github.com/skg-if/snapshot.git
