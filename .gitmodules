@@ -19,3 +19,6 @@
 [submodule "interoperability-framework"]
 	path = interoperability-framework
 	url = https://github.com/skg-if/interoperability-framework.git
+[submodule "extension-template"]
+	path = extension-template
+	url = https://github.com/skg-if/extension-template.git
