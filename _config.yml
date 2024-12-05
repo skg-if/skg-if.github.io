@@ -21,3 +21,10 @@ nav_external_links:
     url: https://sr.ithaka.org/publications/common-scholarly-communication-infrastructure-landscape-review/
 
 nav_external_links_new_tab: true
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
