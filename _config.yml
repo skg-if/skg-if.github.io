@@ -29,8 +29,8 @@ callouts:
     title: Important
     color: blue
 
-plugins:
-  - jekyll-google_search_console_verification_file
+# plugins:
+#   - jekyll-google_search_console_verification_file
 
-google_search_console:
-  verification_file_code: 61890b13e02c7380
+# google_search_console:
+#   verification_file_code: 61890b13e02c7380
