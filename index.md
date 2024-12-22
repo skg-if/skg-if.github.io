@@ -14,7 +14,8 @@ Currently, the work has been handed over to the RDA Working Group on [Scientific
 
 ## Contents
 - [Interoperability Framework]
-- [JSON-LD context]
+- [Data Model]
+- [JSON-LD Context]
 - [Examples]
 - [Extensions]
 - Exchange protocols
@@ -34,7 +35,8 @@ TODO
 [Open Science Graphs for FAIR Data]: https://www.rd-alliance.org/groups/open-science-graphs-fair-data-ig/activity/
 [Scientific Knowledge Graphs - Interoperability Framework]: https://www.rd-alliance.org/groups/scientific-knowledge-graphs-interoperability-framework-skg-if-wg/activity/
 [Interoperability Framework]: https://skg-if.github.io/interoperability-framework/
-[JSON-LD context]: https://skg-if.github.io/context/
+[Data Model]: https://skg-if.github.io/data-model/
+[JSON-LD Context]: https://skg-if.github.io/context/
 [Examples]: https://skg-if.github.io/examples/
 [Extensions]: https://skg-if.github.io/extensions/
 [Snapshot]: https://skg-if.github.io/snapshot/
