@@ -7,7 +7,7 @@ nav_order: 1
 # Welcome to SKG-IF documentation!
 
 This documentation provides an overview of the work started by the RDA Interest Group on
-[Open Science Graphs for FAIR Data] towards the definition of the **Scientific Knowledge Graphs Interoperability Framwork** (**SKG-IF**).
+[Open Science Graphs for FAIR Data] towards the definition of the **Scientific Knowledge Graphs Interoperability Framework** (**SKG-IF**).
 
 Currently, the work has been handed over to the RDA Working Group on [Scientific Knowledge Graphs - Interoperability Framework], which has been endorsed in June 2023.
  
