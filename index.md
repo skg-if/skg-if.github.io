@@ -12,16 +12,8 @@ This documentation provides an overview of the work started by the RDA Interest 
 Currently, the work has been handed over to the RDA Working Group on [Scientific Knowledge Graphs - Interoperability Framework], which has been endorsed in June 2023.
  
 
-## Contents
-- [Interoperability Framework]
-- [Data Model]
-- [JSON-LD Context]
-- [Examples]
-- [Extensions]
-- Exchange protocols
-    - [Snapshot]
-    - [API]
-
+- TOC
+{:toc}
     
 ## How to contribute
 If you are interested in participating in the discussion around the SKG-IF, two (non-mutually exclusive) options are available:
