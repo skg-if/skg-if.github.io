@@ -14,8 +14,8 @@ Currently, the work has been handed over to the RDA Working Group on [Scientific
 
 ## Contents
 - [Interoperability Framework]
-- [Data Model]
 - [JSON-LD Context]
+- [Data Model]
 - [Examples]
 - [Extensions]
 - Exchange protocols
