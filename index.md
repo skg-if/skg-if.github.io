@@ -19,8 +19,8 @@ Currently, the work has been handed over to the RDA Working Group on [Scientific
 - [Examples]
 - [Extensions]
 - Exchange protocols
-    - [Snapshot]
     - [API]
+    - [Snapshot]
 
     
 ## How to contribute
