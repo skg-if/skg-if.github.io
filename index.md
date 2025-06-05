@@ -29,7 +29,10 @@ If you are interested in participating in the discussion around the SKG-IF, two 
 - if you are interested in **extending the SKG-IF to address specific requirements** and/or use cases currently not covered by the proposed core model, please read the documentation about [extensions] and apply for a new one. Extensions follow a separate development/maintenance from the core model, and therefore, their delivery can be fast-paced as long as it meets the expected degree of clearness and compliance. Successful extensions and the aspects they cover can be cherry-picked for inclusion into the core model by the WG.
 
 ## Contributors
-TODO
+- Andrea Mannocci, CNR-ISTI
+- Silvio Peroni, University of Bologna
+- Renaud Duyme, ESRF
+- RDA WG on SKG-IF
 
 ----
 [Open Science Graphs for FAIR Data]: https://www.rd-alliance.org/groups/open-science-graphs-fair-data-ig/activity/
