@@ -25,3 +25,6 @@
 [submodule "ext-ra-skg"]
 	path = ext-ra-skg
 	url = https://github.com/skg-if/ext-ra-skg.git
+[submodule "api-merge"]
+	path = api-merge
+	url = https://github.com/skg-if/api-merge.git
