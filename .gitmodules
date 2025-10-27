@@ -28,3 +28,6 @@
 [submodule "api-merge"]
 	path = api-merge
 	url = https://github.com/skg-if/api-merge.git
+[submodule "ext-service"]
+	path = ext-service
+	url = https://github.com/skg-if/ext-service.git
