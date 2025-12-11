@@ -31,3 +31,6 @@
 [submodule "ext-srv"]
 	path = ext-srv
 	url = https://github.com/skg-if/ext-srv.git
+[submodule "ext-geo-skg"]
+	path = ext-geo-skg
+	url = https://github.com/skg-if/ext-geo-skg.git
