@@ -34,3 +34,6 @@
 [submodule "ext-geo-skg"]
 	path = ext-geo-skg
 	url = https://github.com/skg-if/ext-geo-skg.git
+[submodule "ext-prov"]
+	path = ext-prov
+	url = https://github.com/skg-if/ext-prov.git
