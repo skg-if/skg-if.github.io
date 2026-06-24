@@ -37,3 +37,6 @@
 [submodule "ext-prov"]
 	path = ext-prov
 	url = https://github.com/skg-if/ext-prov.git
+[submodule "ext-instr"]
+	path = ext-instr
+	url = https://github.com/skg-if/ext-instr.git
