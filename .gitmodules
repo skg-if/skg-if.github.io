@@ -40,3 +40,6 @@
 [submodule "ext-instr"]
 	path = ext-instr
 	url = https://github.com/skg-if/ext-instr.git
+[submodule "ext-prod-filters"]
+	path = ext-prod-filters
+	url = https://github.com/skg-if/ext-prod-filters.git
